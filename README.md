@@ -1,6 +1,6 @@
 # Incomputable LLC Website
 
-Incomputable LLC is a software engineering consulting company specialized in high-performance computing (HPC). We deliver customized software systems to execute workflows on the largest HPC platforms in the world. With more than twenty years of experience, we bring to your organization the cutting edge technology that power workflow applications at scale. We enable computational innovation in biology, chemistry, material engineering, particle physics and climate sciences. We engage in the grand challenges of our times, fighting cancer, climate change and pandemics. 
+Incomputable is a software engineering consulting company specialized in high-performance computing (HPC). We deliver customized software systems to execute workflows on the largest HPC platforms in the world. With more than twenty years of experience, we bring to your organization the cutting edge technology that power workflow applications at scale. We enable computational innovation in biology, chemistry, material engineering, particle physics and climate sciences. We engage in the grand challenges of our times, fighting cancer, climate change and pandemics. 
 
 This site is based on a clone of [SinglePaged theme](https://github.com/t413/SinglePaged)
 
